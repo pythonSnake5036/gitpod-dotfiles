@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # log graph alias
 git config --global alias.log-graph "log --pretty=oneline --all --graph --decorate"
 
