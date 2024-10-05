@@ -8,8 +8,8 @@ vim.opt.syntax = "on"
 
 vim.opt.number = true
 
-vim.opt.shiftwidth = 4
-vim.opt.tabstop = 4
+vim.opt.shiftwidth = 2
+vim.opt.tabstop = 2
 
 -- Clone 'mini.nvim' manually in a way that it gets managed by 'mini.deps'
 local path_package = vim.fn.stdpath('data') .. '/site/'
